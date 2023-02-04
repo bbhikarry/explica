@@ -1,5 +1,5 @@
 ---
-title: "Create a website with Hugo (Demo by Dina & Alison Hill)"
+title: "Create a website with A Hugo (Demo by Dina & Alison Hill)"
 author: "Adam Garber"
 date: '2023-01-30'
 output: html_document
